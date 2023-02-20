@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/02/20 14:47:37.040,=C:\Users\shina\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/20 14:51:48.362,D:\LayoutFMX\PrimeiroLayout.pas=C:\Users\shina\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/20 14:51:48.362,D:\LayoutFMX\PrimeiroLayout.fmx=C:\Users\shina\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/02/20 14:52:05.046,D:\LayoutFMX\PrimeiroLayoutPrj.dproj=C:\Users\shina\OneDrive\Documentos\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
