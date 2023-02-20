@@ -1205,7 +1205,7 @@ inherited Form1_SSW3: TForm1_SSW3
       Size.Width = 183.000000000000000000
       Size.Height = 53.000000000000000000
     end
-    inherited Label1: TLabel
+    inherited Label1Principal: TLabel
       Size.Width = 183.000000000000000000
       Size.Height = 183.000000000000000000
     end

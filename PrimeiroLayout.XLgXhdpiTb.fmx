@@ -1211,7 +1211,7 @@ inherited Form1_XLgXhdpiTb: TForm1_XLgXhdpiTb
       Size.Width = 792.000000000000000000
       Size.Height = 1087.000000000000000000
     end
-    inherited Label1: TLabel
+    inherited Label1Principal: TLabel
       Size.Width = 792.000000000000000000
       Size.Height = 1247.000000000000000000
     end

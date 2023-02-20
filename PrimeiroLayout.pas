@@ -11,7 +11,10 @@ type
   TForm1 = class(TForm)
     Base1: TRectangle;
     Image1: TImage;
-    Label1: TLabel;
+    Label1Principal: TLabel;
+    SpeedButton1: TSpeedButton;
+    procedure LblLoginClick(Sender: TObject);
+    procedure SpeedButton1Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -29,5 +32,20 @@ implementation
 {$R *.SSW3.fmx ANDROID}
 {$R *.NmXhdpiPh.fmx ANDROID}
 {$R *.LgXhdpiPh.fmx ANDROID}
+
+uses
+  LayoutLogin, Winapi.Windows;
+
+procedure TForm1.LblLoginClick(Sender: TObject);
+begin
+  Form2 := TForm2.Create(self);
+  Form2.Show;
+end;
+
+procedure TForm1.SpeedButton1Click(Sender: TObject);
+begin
+  Form2 := TForm2.Create(self);
+  Form2.Show;
+end;
 
 end.

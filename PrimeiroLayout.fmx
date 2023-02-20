@@ -1230,7 +1230,7 @@ object Form1: TForm1
       Size.Height = 429.000000000000000000
       Size.PlatformDefault = False
     end
-    object Label1: TLabel
+    object Label1Principal: TLabel
       Align = Client
       StyledSettings = []
       Size.Width = 341.000000000000000000
@@ -1243,5 +1243,16 @@ object Form1: TForm1
       Text = 'OVLET'
       TabOrder = 1
     end
+  end
+  object SpeedButton1: TSpeedButton
+    StyledSettings = [Family, Size, Style]
+    Position.X = 112.000000000000000000
+    Position.Y = 488.000000000000000000
+    Size.Width = 113.000000000000000000
+    Size.Height = 48.000000000000000000
+    Size.PlatformDefault = False
+    Text = '->'
+    TextSettings.FontColor = claDarkslateblue
+    OnClick = SpeedButton1Click
   end
 end

@@ -1205,7 +1205,7 @@ inherited Form1_NmXhdpiPh: TForm1_NmXhdpiPh
       Size.Width = 400.000000000000000000
       Size.Height = 485.000000000000000000
     end
-    inherited Label1: TLabel
+    inherited Label1Principal: TLabel
       Size.Width = 400.000000000000000000
       Size.Height = 615.000000000000000000
     end

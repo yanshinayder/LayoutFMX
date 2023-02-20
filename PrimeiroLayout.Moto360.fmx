@@ -1211,7 +1211,7 @@ inherited Form1_Moto360: TForm1_Moto360
       Size.Width = 232.000000000000000000
       Size.Height = 50.000000000000000000
     end
-    inherited Label1: TLabel
+    inherited Label1Principal: TLabel
       Size.Width = 232.000000000000000000
       Size.Height = 210.000000000000000000
     end
